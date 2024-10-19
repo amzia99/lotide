@@ -20,7 +20,7 @@ const countOnly = function (allItems, itemstoCount) {
   return results;
 };
 
-  // TEST CODE countOnly
+  // TEST CODE for countOnly
 const firstNames = [
   "Karl",
   "Salima",
@@ -50,11 +50,11 @@ return results;
 
 
 
-// TEST CODE
+// old TEST CODE
 assertEqual("Lighthouse Labs", "Bootcamp");
 assertEqual(1, 1);
 
-// Some more test cases
+// old Some more test cases
 assertEqual("Hello", "Hello");
 assertEqual("Hello", "hello");
 assertEqual(5, 5);
