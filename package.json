@@ -1,9 +1,9 @@
 {
-  "type": "module",
-  "name": "lotide",
+  "type": "commonjs",
+  "name": "@amzia99/lotide",
   "version": "1.0.0",
-  "description": "",
-  "main": "assertArraysEqual.js",
+  "description": "A mini clone of the Lodash Library.",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -20,7 +20,7 @@
     "url": "git+https://github.com/amzia99/lotide.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Abdullah Zia",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/amzia99/lotide/issues"
